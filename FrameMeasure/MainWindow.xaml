@@ -1,0 +1,13 @@
+﻿<Window x:Class="FrameMeasure.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FrameMeasure"
+        mc:Ignorable="d"
+        Title="Frame Counter" Height="634.624" Width="824.772">
+    <Grid>
+        <Label x:Name="label" Content="60" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="444"/>
+
+    </Grid>
+</Window>
